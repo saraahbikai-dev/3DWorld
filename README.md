@@ -1,3 +1,3 @@
 # 3DWorld
 
-![skybox](skybox4parts.png)
+![skybox](images/skybox4parts.png)
